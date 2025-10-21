@@ -195,7 +195,3 @@ Run tests with:
 
 This project is intended for educational and portfolio purposes. Please ensure compliance with relevant regulations before using in production financial systems.
 
-## Contributing
-
-This is a portfolio project demonstrating C++ best practices and financial systems design. Feel free to use as a reference or starting point for your own implementations.
-
