@@ -4,7 +4,7 @@ A high-performance limit order book engine built in C++17, demonstrating the cor
 
 ## Why I Built This
 
-During a conversation with a senior developer at RBC Capital Markets, I learned that order books are fundamental to all trading systems - they're the core infrastructure that powers every stock exchange and trading platform. I built this project to demonstrate my understanding of:
+Order books are fundamental to all trading systems - they're the core infrastructure that powers every stock exchange and trading platform. I built this project to demonstrate my understanding of:
 
 - **High-performance C++ systems programming** - choosing efficient data structures for microsecond-level operations
 - **Financial market microstructure** - how real trading systems match buyers and sellers
