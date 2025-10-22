@@ -285,5 +285,3 @@ I'm a CS/BBA student at Wilfrid Laurier University combining technical skills (C
 This project is intended for educational and portfolio purposes. Feel free to explore the code and learn from it. If you're a recruiter or hiring manager, I'm happy to discuss the implementation details and design decisions!
 
 ---
-
-*Built with ❤️ for financial technology*
